@@ -1,0 +1,16 @@
+# Banking Application
+
+The Banking Application is a Java program designed to manage basic banking operations such as account creation, depositing funds, withdrawing funds, and searching for account details.
+
+## Features
+
+- **Account Creation:** Users can input details to create new bank accounts.
+- **Display All Account Details:** View details of all created bank accounts.
+- **Search by Account Number:** Search for a specific bank account by its account number.
+- **Deposit and Withdraw Funds:** Perform deposit and withdrawal operations on existing accounts.
+
+## How to Use
+
+1. **Clone the Repository:** Clone the repository to your local machine using the following command:
+   ```bash
+https://github.com/chiranasamadith/BankSystem.git
